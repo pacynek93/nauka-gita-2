@@ -1,3 +1,10 @@
+body {
+    padding: 50px;
+    margin: 0 auto;
+
+}
+
+
 p {
     background-color: #FF0000;
 }
